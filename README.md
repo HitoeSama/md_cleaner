@@ -38,7 +38,7 @@ md_cleaner targets Markdown documents that contain a mix of:
 Clone the repository and run the tool directly:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/HitoeSama/md_cleaner
 python cleaner.py your_markdown_name.md
 ```
 
@@ -82,7 +82,7 @@ md_cleaner面向包含以下内容混排的Markdown文档：
 克隆仓库并直接运行该工具：
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/HitoeSama/md_cleaner
 python cleaner.py your_markdown_name.md
 ```
 
@@ -126,7 +126,7 @@ md_cleanerは、以下の要素が混在するMarkdown文書を対象として�
 リポジトリをクローンして、ツールを直接実行します：
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/HitoeSama/md_cleaner
 python cleaner.py your_markdown_name.md
 ```
 
